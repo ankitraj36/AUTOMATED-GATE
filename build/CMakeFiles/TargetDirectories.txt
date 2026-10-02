@@ -1,0 +1,7 @@
+/Users/ankitraj/Ruman/build/CMakeFiles/door_access.dir
+/Users/ankitraj/Ruman/build/CMakeFiles/edit_cache.dir
+/Users/ankitraj/Ruman/build/CMakeFiles/rebuild_cache.dir
+/Users/ankitraj/Ruman/build/CMakeFiles/list_install_components.dir
+/Users/ankitraj/Ruman/build/CMakeFiles/install.dir
+/Users/ankitraj/Ruman/build/CMakeFiles/install/local.dir
+/Users/ankitraj/Ruman/build/CMakeFiles/install/strip.dir
